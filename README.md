@@ -1,8 +1,8 @@
 # mvc
-<B>[Inflearn] Kotlin으로 배우는 Spring Boot</B>
+# [Inflearn] Kotlin으로 배우는 Spring Boot</B>
  
 <br><br>
-<B>[학습 내용]</B>
+## [학습 내용]
  
 - Rest-API
   - Get
