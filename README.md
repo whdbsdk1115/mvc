@@ -1,4 +1,3 @@
-# mvc
 # [Inflearn] Kotlin으로 배우는 Spring Boot</B>
  
 <br><br>
