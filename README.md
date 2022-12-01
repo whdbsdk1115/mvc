@@ -22,11 +22,6 @@
 - JUnit
   - RestController 단위 테스트 작성하기
  
-- TODO LIST WebApplication 만들기
-  - Memory Database 설계와 JUnit으로 테스트하기
-  - REST Controller, Bean JUnit으로 유효성 검증하기
-  - Service Logic 개발
-  - Swagger 추가하기
 
 <br><br>
 출처: https://inf.run/iFDr
